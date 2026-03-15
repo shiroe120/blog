@@ -1,7 +1,51 @@
 baseURL = 'https://shiroe120.github.io/blog/'
 
-languageCode = 'en-us'
+languageCode = 'zh-cn'
 
-title = 'My New Hugo Project'
+title = '个人博客'
+
+description = '记录生活与技术的个人空间'
 
 theme = 'PaperMod'
+
+[params]
+  # 主题设置
+  author = 'Shiroe'
+  dateFormat = '2006-01-02'
+  defaultTheme = 'auto'  # 自动切换深色/浅色模式
+  disableThemeToggle = false
+  
+  # 社交图标
+  socialIcons = [
+    { name = 'github', url = 'https://github.com/shiroe120' },
+    { name = 'email', url = 'mailto:2577866337@qq.com' }
+  ]
+  
+  # 其他设置
+  showReadingTime = true
+  showShareButtons = false
+  showPostNavLinks = true
+  showPagination = true
+  
+  # 首页信息模式
+  [params.homeInfoParams]
+    title = '你好，欢迎来到Shiroe的博客！'
+    content = '希望能对人类有些微的帮助'
+
+# 菜单
+[[menu.main]]
+  name = '首页'
+  url = '/' 
+  weight = 1
+[[menu.main]]
+  name = '归档'
+  url = '/posts/'
+  weight = 2
+[[menu.main]]
+  name = '搜索'
+  url = '/search/'
+  weight = 3
+[[menu.main]]
+  name = '关于'
+  url = '/about/'
+  weight = 4

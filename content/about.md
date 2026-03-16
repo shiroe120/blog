@@ -14,9 +14,9 @@ disableShare = true
 
 ### 我的部分作品
 
-![作品1](/mmk-highDPI.png)
+![作品1](/blog/mmk-highDPI.png)
 
-![作品2](/saya.png)
+![作品2](/blog/saya.png)
 
 ### 梦想
 梦想是成为艺术家

@@ -7,16 +7,12 @@ disableShare = true
 
 你好，我是 Shiroe，一个普通的开发者。
 
+![装饰图片](/blog/saya.png)
+
 ### 我的兴趣
 - 绘画
 - 摄影
 - 技术
-
-### 我的部分作品
-
-![作品1](/blog/mmk-highDPI.png)
-
-![作品2](/blog/saya.png)
 
 ### 梦想
 梦想是成为艺术家

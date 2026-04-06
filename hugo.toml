@@ -31,7 +31,6 @@ theme = 'PaperMod'
   [params.homeInfoParams]
     title = '你好，欢迎来到Shiroe的博客！'
     content = '希望能对人类有些微的帮助'
-    image = '/blog/mmk-highDPI.png'
 
 # 菜单
 [[menu.main]]
